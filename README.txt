@@ -11,3 +11,5 @@ before Rebase in Master
 =======
 before Rebase
 >>>>>>> faac19e... rebase checking
+
+After rebase
