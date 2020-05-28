@@ -14,3 +14,5 @@ After rebase
 # Heading
 ## Subheading
 ###### Normal
+**bold there**
+Markdown dont work in txt file
