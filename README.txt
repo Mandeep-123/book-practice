@@ -11,5 +11,6 @@ before Rebase
 
 After rebase
 
-## hello
-** point1 **
+# Heading
+## Subheading
+###### Normal
