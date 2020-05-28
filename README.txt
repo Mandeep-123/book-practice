@@ -6,4 +6,7 @@ after tag
 
 2nd branch for Testing
 
+before Rebase in Master
 before Rebase
+
+After rebase
