@@ -11,5 +11,5 @@ before Rebase
 
 After rebase
 
-#hello# 
-*point1*
+## hello
+** point1 **
