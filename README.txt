@@ -19,3 +19,5 @@ Markdown dont work in txt file
 
 trying interactive add
 git add -i
+
+Stash this
