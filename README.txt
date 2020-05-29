@@ -21,3 +21,5 @@ trying interactive add
 git add -i
 
 Stash this
+
+Ammend commit
